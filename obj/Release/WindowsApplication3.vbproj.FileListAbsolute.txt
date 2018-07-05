@@ -1,0 +1,10 @@
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\bin\Release\WindowsApplication3.exe.config
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\bin\Release\WindowsApplication3.exe
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\bin\Release\WindowsApplication3.pdb
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\bin\Release\WindowsApplication3.xml
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\obj\Release\WindowsApplication3.Form1.resources
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\obj\Release\WindowsApplication3.Resources.resources
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\obj\Release\WindowsApplication3.vbproj.GenerateResource.cache
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\obj\Release\WindowsApplication3.exe
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\obj\Release\WindowsApplication3.xml
+C:\Users\Rick\Desktop\CDNSP\gui\WindowsApplication3\obj\Release\WindowsApplication3.pdb
